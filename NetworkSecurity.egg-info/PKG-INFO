@@ -1,4 +1,4 @@
-Metadata-Version: 2.4
+Metadata-Version: 2.1
 Name: NetworkSecurity
 Version: 0.0.1
 Author: Het Shah
@@ -12,6 +12,5 @@ Requires-Dist: certifi
 Requires-Dist: setuptools
 Requires-Dist: scikit-learn
 Requires-Dist: pyyaml
-Dynamic: author
-Dynamic: author-email
-Dynamic: requires-dist
+Requires-Dist: mlflow
+Requires-Dist: dagshub

@@ -7,3 +7,5 @@ certifi
 setuptools
 scikit-learn
 pyyaml
+mlflow
+dagshub
